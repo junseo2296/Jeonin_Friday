@@ -6,3 +6,4 @@ myclass = mypy
 A = myclass.add(1,2)
 print(A)
 
+
